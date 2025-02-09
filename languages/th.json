@@ -260,16 +260,16 @@
 			"folders": "การนำทาง (โฟลเดอร์)",
 			"files": "การนำทาง (ไฟล์)",
 			"ignoreSingleFoldersLibrary": "ละเว้นโฟลเดอร์เดี่ยว (เปิดอัตโนมัติ)",
-			"openingBehaviorFolder": "",
-			"openingBehaviorFolderDescription": "",
-			"openingBehaviorFile": "",
-			"openingBehaviorFileDescription": "",
+			"openingBehaviorFolder": "พฤติกรรมเมื่อเปิดโฟลเดอร์",
+			"openingBehaviorFolderDescription": "กำหนดพฤติกรรมที่ต้องการเมื่อเปิดโฟลเดอร์ระหว่างการนำทาง",
+			"openingBehaviorFile": "พฤติกรรมเมื่อเปิดไฟล์",
+			"openingBehaviorFileDescription": "กำหนดพฤติกรรมที่ต้องการเมื่อเปิดไฟล์ระหว่างการนำทาง",
 			"openingBehavior": {
-				"fileList": "",
-				"lastFolder": "",
-				"onlyLastFolder": "",
-				"anyFolder": "",
-				"continueReadingOrFirstPage": ""
+				"fileList": "รายการไฟล์",
+				"lastFolder": "โฟลเดอร์ล่าสุด",
+				"onlyLastFolder": "เฉพาะในโฟลเดอร์ล่าสุด (ไม่มีโฟลเดอร์ย่อย)",
+				"anyFolder": "ทุกโฟลเดอร์",
+				"continueReadingOrFirstPage": "อ่านต่อหรือหน้าแรก"
 			},
 			"useTheFirstImageAsPoster": "ใช้ภาพแรกเป็นภาพปก (กรณีที่ที่อยู่ปัจจุบันไม่ม่)",
 			"showFullPathLibrary": "แสดงที่ตั้งแบบเต็มเมื่อเปิดห้องสมุดคอมมิกส์",
@@ -278,10 +278,10 @@
 			"recentlyOpenedItems": "จำนวนรายการที่จัดเก็บในรายการที่เปิดล่าสุด"
 		},
 		"saveImages": {
-			"main": "",
-			"filenameTemplate": "",
+			"main": "จัดเก็บรูป",
+			"filenameTemplate": "เทมเพลตชื่อไฟล์",
 			"filenameTemplateDescription": "",
-			"autoSave": ""
+			"autoSave": "จัดเก็บรูปไปยังโฟลเดอร์ต่อไปนี้"
 		},
 		"startupBehavior": {
 			"main": "การกระทำเมื่อเริ่มต้น",
@@ -505,8 +505,8 @@
 			}
 		},
 		"requestFileAccess": {
-			"title": "",
-			"description": ""
+			"title": "สิทธิ์การเข้าถึงไฟล์บางไฟล์หายไป",
+			"description": "คุณสามารถให้สิทธิ์อีกครั้งจากกล่องโต้ตอบนี้เพื่อให้มั่นใจว่า OpenComic จะทำงานได้อย่างถูกต้อง"
 		},
 		"release": {
 			"title": "มีเวอร์ชั่นใหม่พร้อมใช้งาน <b>{{releaseName}}</b>",
